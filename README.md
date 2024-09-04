@@ -1,6 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kitipong NPiB</h1>
 <h3 align="center">A passionate Machine Learning and Deep Learning enthusiast from Thailand.</h3>
 
+<p align="center">
+  <img src="https://i.imgur.com/NxjWrSr.gif" alt="Welcome GIF">
+</p>
+
+
 <h3>Connect with me:</h3>
 <p>
   <a href="https://linkedin.com/in/kitipong-saiyot01" target="_blank">
