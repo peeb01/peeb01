@@ -75,7 +75,9 @@
   </a>
 </p>
 
-## 
+<br>
+<br>
+<br>
 <h1>Project and Experience</h1>
 
 <h2>Artificial Neural Network for MNIST Digits Dataset</h2>
