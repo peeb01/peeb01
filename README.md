@@ -19,7 +19,7 @@
   </a>
 </p>
 
-<h3>Languages and Tools:</h3>
+<h3>Languages:</h3>
 <p>
   <a href="https://www.python.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" />
@@ -33,6 +33,9 @@
   <a href="https://golang.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="Go" width="40" height="40" />
   </a>
+</p>
+<h3>Tools</h3>
+<p>
   <a href="https://www.tensorflow.org" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="TensorFlow" width="40" height="40" />
   </a>
