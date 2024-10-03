@@ -89,7 +89,7 @@
   Designed and implemented the forward propagation, backpropagation, and gradient descent algorithms manually.
 </p>
 
-<h2>Web API for Connecting to SQL Server Database</h2>
+<h2>API for Connecting to SQL Server Database</h2>
 <p>
   Developed a RESTful API using FastAPI to interface with a SQL Server database, enabling seamless communication between front-end applications and the backend database.<br>
   <strong>Tools/Technologies:</strong> FastAPI, SQL Server, PyODBC, Python.
