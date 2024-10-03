@@ -74,3 +74,30 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
 </p>
+
+
+<h1>Project and Experience</h1>
+
+<h2>Artificial Neural Network for MNIST Digits Dataset</h2>
+<p>
+  Developed a custom Artificial Neural Network (ANN) from scratch to classify MNIST digit images, using no external Deep Learning libraries.<br>
+  Designed and implemented the forward propagation, backpropagation, and gradient descent algorithms manually.
+</p>
+
+<h2>Web API for Connecting to SQL Server Database</h2>
+<p>
+  Developed a RESTful API using FastAPI to interface with a SQL Server database, enabling seamless communication between front-end applications and the backend database.<br>
+  <strong>Tools/Technologies:</strong> FastAPI, SQL Server, PyODBC, Python.
+</p>
+
+<h2>Air Quality Index Forecasting</h2>
+<p>
+  Developed a forecasting model for air quality indices using Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU) neural networks in TensorFlow.<br>
+  Analyzed historical air quality data to predict future indices, applying time-series forecasting techniques.
+</p>
+
+<h2>Data Scientist Internships</h2>
+<p>
+  Analyzed consumer behavior patterns to inform business strategies and improve decision-making processes.
+</p>
+
