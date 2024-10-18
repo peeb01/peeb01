@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Kitipong NPiB</h1>
 <h3 align="center">A passionate Machine Learning and Deep Learning enthusiast from Thailand.</h3>
 
-<!-- <p align="center">
+<p align="center">
   <img src="https://25.media.tumblr.com/8a054bbf3dccbbecdfb5a3dedf2cd1e1/tumblr_mh03rfmg1M1ryp138o1_500.gif" alt="Welcome GIF">
-</p> -->
+</p>
 
 
 <h3>Connect with me</h3>
@@ -77,32 +77,3 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
 </p>
-<!--
-<br>
-<br>
-<br>
-<h1>Project and Experience</h1>
-
-<h2>Artificial Neural Network for MNIST Digits Dataset</h2>
-<p>
-  Developed a custom Artificial Neural Network (ANN) from scratch to classify MNIST digit images, using no external Deep Learning libraries.<br>
-  Designed and implemented the forward propagation, backpropagation, and gradient descent algorithms manually.
-</p>
-
-<h2>API for Connecting to SQL Server Database</h2>
-<p>
-  Developed a RESTful API using FastAPI to interface with a SQL Server database, enabling seamless communication between front-end applications and the backend database.<br>
-  <strong>Tools/Technologies:</strong> FastAPI, SQL Server, PyODBC, Python.
-</p>
-
-<h2>Air Quality Index Forecasting</h2>
-<p>
-  Developed a forecasting model for air quality indices using Long Short-Term Memory (LSTM) and Gated Recurrent Units (GRU) neural networks in TensorFlow.<br>
-  Analyzed historical air quality data to predict future indices, applying time-series forecasting techniques.
-</p>
-
-<h2>Data Scientist Internships</h2>
-<p>
-  Analyzed consumer behavior patterns to inform business strategies and improve decision-making processes.
-</p>
--->
