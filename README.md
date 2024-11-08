@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kitipong NPiB</h1>
 <h3 align="center">A passionate Machine Learning and Deep Learning enthusiast from Thailand.</h3>
-<--
+<!--
 <p align="center">
   <img src="https://25.media.tumblr.com/8a054bbf3dccbbecdfb5a3dedf2cd1e1/tumblr_mh03rfmg1M1ryp138o1_500.gif" alt="Welcome GIF">
 </p>
