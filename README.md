@@ -76,6 +76,10 @@
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
 </p>
+<br>
+<br>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peeb01&show_icons=true&locale=en&layout=compact" alt="peeb01" /></p>
 
 <br>
 <br>
