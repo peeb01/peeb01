@@ -79,7 +79,7 @@
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peeb01&show_icons=true&locale=en&layout=compact" alt="peeb01" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peeb01&show_icons=true&locale=en&layout=compact&hide=python" alt="peeb01" /></p>
 
 <br>
 <br>
