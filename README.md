@@ -76,7 +76,7 @@
 
 <br>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peeb01&show_icons=true&locale=en&layout=compact&hide=notebooks/*" alt="peeb01" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peeb01&show_icons=true&locale=en&layout=compact&hide=Jupyter Notebook,HTML" alt="peeb01" /></p>
 
 <br>
 
