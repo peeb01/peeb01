@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kitipong NPiB</h1>
 <h3 align="center">A passionate Machine Learning and Deep Learning enthusiast from Thailand.</h3>
-<!--
-<p align="center">
-  <img src="https://25.media.tumblr.com/8a054bbf3dccbbecdfb5a3dedf2cd1e1/tumblr_mh03rfmg1M1ryp138o1_500.gif" alt="Welcome GIF">
-</p>
--->
+
 <h3>Connect with me</h3>
 <p>
   <a href="https://linkedin.com/in/kitipong-saiyot01" target="_blank">
@@ -33,6 +29,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" />
   </a>
 </p>
+
 <h3>Tools</h3>
 <p>
   <a href="https://www.tensorflow.org" target="_blank">
@@ -70,18 +67,17 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="40" height="40" />
   </a>
   <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="Kubernetes" width="40" height="40" />
   </a>
   <a href="https://git-scm.com/" target="_blank">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40" />
   </a>
 </p>
-<br>
+
 <br>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peeb01&show_icons=true&locale=en&layout=compact&hide=notebooks/*" alt="peeb01" /></p>
 
-<br>
 <br>
 
 ### Thanks | ありがとう
