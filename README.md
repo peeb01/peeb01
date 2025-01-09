@@ -81,15 +81,13 @@
     </a>
   </p>
   <br>
+    <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peeb01&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML" alt="peeb01" /></p>
   <br>
   <br>
   <br>
   <br>
   <br>
   <br>
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=peeb01&show_icons=true&locale=en&layout=compact&hide=Jupyter%20Notebook,HTML" alt="peeb01" /></p>
-
   <br>
   <h2>Projects</h2>
 
